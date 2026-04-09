@@ -3,8 +3,6 @@
 import { motion, Variants } from "framer-motion";
 import { programs } from "@/data/hashtheoryData";
 import Drone from "@/components/Drone";
-import { Variants } from "framer-motion";
-
 // Icon components
 const icons: Record<string, React.ReactNode> = {
     cpu: (
